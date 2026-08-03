@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "281313294545",
+    "project_id": "nutrimind-ai-a5072",
+    "storage_bucket": "nutrimind-ai-a5072.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281313294545:android:2779dad2f065f109f1adf0",
+        "android_client_info": {
+          "package_name": "com.example.caloryproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0r9odBNP9LWAZ3yt1GNwu6_nCOo0aWtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281313294545:android:de8f57ef4a21bec8f1adf0",
+        "android_client_info": {
+          "package_name": "com.example.menna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0r9odBNP9LWAZ3yt1GNwu6_nCOo0aWtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

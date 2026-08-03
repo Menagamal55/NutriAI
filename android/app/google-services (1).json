@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26836328320",
+    "project_id": "nutriai-f1af0",
+    "storage_bucket": "nutriai-f1af0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26836328320:android:f2229c052a6fbe21526b65",
+        "android_client_info": {
+          "package_name": "com.example.menna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAQ3cBkLPHfDVeKVWGkXsaltKWWaprK5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
